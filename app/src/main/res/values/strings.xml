@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="habit_name_question">"What habit are you trying to pickup/giveup: "</string>
+    <string name="reasons_question">"What are your reasons: "</string>
+    <string name="quit_or_start_time">Set quit/start date</string>
+</resources>
